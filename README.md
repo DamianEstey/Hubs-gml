@@ -1,4 +1,4 @@
-# Hubs is a very simple, flexible way to have your controller communicate globally with objects. Here is how it works:
+# Hubs, here is how it works:
 
 ```
 //Put this in the create event of your controller.
